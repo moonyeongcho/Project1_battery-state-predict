@@ -145,6 +145,8 @@ Transformer가 Total MAE 기준 최고 성능. TCN은 GPU 메모리(6.7MB)와 MA
 
 ```
 .
+├── assets/
+│   └── poster.pdf
 ├── matlab/
 │   ├── interpolate_bms.m          # BMS 데이터 0.1s 보간
 │   ├── interpolate_tctemp.m       # TC 온도 데이터 보간
@@ -170,7 +172,6 @@ Transformer가 Total MAE 기준 최고 성능. TCN은 GPU 메모리(6.7MB)와 MA
 │   ├── raw/          # 원본 CSV (gitignore)
 │   ├── interim/      # 정제·병합 데이터
 │   └── processed/    # 윈도우 데이터셋 (.npz)
-├── config.yaml
 ├── requirements.txt
 └── README.md
 ```
