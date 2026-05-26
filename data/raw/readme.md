@@ -1,4 +1,4 @@
 - 6060사이클러.xlsx: 사이클러 데이터(전류, 전압, 전력, 용량 사용)
 - 6060bms데이터.csv: 부스바 온도 데이터 사용
 - Tc_temp_6060regen70.csv: TC temp 데이터 사용(외부 온도와 비교)
-- test data_6060_regen/xlsx: 사이클러 + BMS + TC data concat
+- **test data_6060_regen/xlsx**: 사이클러 + BMS + TC data concat
